@@ -1,0 +1,84 @@
+#variables
+
+# name = "Vijay"
+
+# print("name")
+
+
+#data types
+
+# int - 9
+# float - 9.7
+# string - "name"
+# boolean - True or False
+# None - 
+# complex - 2+5j
+
+# age =18
+# marks = 75.5
+# name = "Yogesh"
+# isOnline = False
+# value = None
+# formula = 3+4j
+
+# print(type(marks))
+# print(type(age))
+# print(type(name))
+# print(type(isOnline))
+# print(type(value))
+# print(type(formula))
+
+
+# 2value
+# value2
+
+# first Name
+# first_name
+
+
+# name = input("Enter your name: ")
+# city = input("Enter your city: ")
+# courseFee = float(input("Enter your fees: "))
+
+# print("Name: ",name)
+# print("City: ",city)
+# print("Course Fees: ",courseFee)
+
+# print("Types of name", type(name))
+# print("Types of city", type(city))
+# print("Types of courseFee", type(courseFee))
+
+
+# a = int(input("Enter value 1: "))
+# b = int(input("Enter value 2: "))
+# print("a",a)
+# print("b",b)
+# print("total", a+b)
+
+
+# city = input("Enter your city: ")
+# print("I love ",city,"." "I am living in ",city,".")
+# print(f"I love {city}. I am living in {city}.")
+
+
+#Operators
+
+# Arithmetic operators
+# +
+# -
+# *
+# /
+# %
+# //
+# **
+
+# a = int(input("Enter a value: "))
+# b = int(input("Enter b value: "))
+
+# print("Addition: ", a+b)
+# print("Subraction: ", a-b)
+# print("Multiplication: ", a*b)
+# print("Division: ", a/b)
+# print("Modulo Division: ", a%b)
+# print("Floor Division: ", a//b)
+# print("Exponentation: ", a**b)
